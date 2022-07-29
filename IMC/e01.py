@@ -1,3 +1,5 @@
+#coding: utf-8
+
 import os
 
 altura = float(input("Digite sua altura em metros: "))
